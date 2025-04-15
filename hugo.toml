@@ -108,11 +108,11 @@ URL = '#about'
 weight = 2
 [[menus.header]]
 name = 'Experience'
-URL = '/experience'
+URL = '#experience'
 weight = 3
 [[menus.header]]
 name = 'Projects'
-URL = '/projects'
+URL = '#projects'
 weight = 4
 [[menus.header]]
 name = "Contact"
@@ -139,11 +139,11 @@ URL = '#about'
 weight = 2
 [[languages.en.menus.header]]
 name = 'Experience'
-URL = '/experience'
+URL = '#experience'
 weight = 3
 [[languages.en.menus.header]]
 name = 'Projects'
-URL = '/projects'
+URL = '#projects'
 weight = 4
 [[languages.en.menus.header]]
 name = "Contact"
