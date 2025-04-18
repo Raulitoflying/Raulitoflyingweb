@@ -660,16 +660,21 @@ params:
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>__This will also be bold__
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>_You **can** combine them_
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;em>This text will be italic&lt;/em>&lt;/p></description></item><item><title>LLM-based Political Stance Classification</title><link>https://raulitoflying.github.io/projects/llm-political-stance/</link><pubDate>Tue, 20 Feb 2024 00:00:00 +0100</pubDate><guid>https://raulitoflying.github.io/projects/llm-political-stance/</guid><description>&lt;h3 id="reference-link">Reference Link:&lt;/h3>
-&lt;p>Reference Link: &lt;a href="https://github.com/Raulitoflying/CS7980-llms-political">https://github.com/Raulitoflying/CS7980-llms-political&lt;/a>&lt;/p>
-&lt;h3 id="key-accomplishments">Key Accomplishments:&lt;/h3>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;em>This text will be italic&lt;/em>&lt;/p></description></item><item><title>LLM-based Political Stance Classification</title><link>https://raulitoflying.github.io/projects/llm-political-stance/</link><pubDate>Tue, 20 Feb 2024 00:00:00 +0100</pubDate><guid>https://raulitoflying.github.io/projects/llm-political-stance/</guid><description>&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;h4 id="reference-link">Reference Link:&lt;/h4>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;p>&lt;a href="https://github.com/Raulitoflying/CS7980-llms-political">Reference Link&lt;/a>&lt;/p>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;h4 id="key-accomplishments">Key Accomplishments:&lt;/h4>
 &lt;ul>
-&lt;li>Designed prompt templates to improve generalization across domains&lt;/li>
-&lt;li>Constructed scalable embedding pipelines with LangChain, pgvector, and spaCy-based NLP preprocessing&lt;/li>
-&lt;li>Aggregated over 70,000+ social media textual records (Twitter, Reddit) to enhance training diversity&lt;/li>
-&lt;li>Benchmarked open-source and proprietary LLMs (Claude, Gemini, Mistral, LLaMA) across 10+ political topics&lt;/li>
+&lt;li>Engineered a political stance classifier using RAG and hybrid NLP-graph techniques, achieving 90% accuracy by &lt;strong>fine-tuning&lt;/strong> large language
+models and designing prompt templates to improve generalization across domains.&lt;/li>
+&lt;li>Constructed scalable embedding pipelines with &lt;strong>LangChain&lt;/strong>, &lt;strong>pgvector&lt;/strong>, and &lt;strong>spaCy-based NLP preprocessing&lt;/strong>, aggregating over &lt;strong>70,000+&lt;/strong> social media textual records (Twitter, Reddit) to enhance training diversity and robustness.&lt;/li>
+&lt;li>Benchmarked open-source and proprietary LLMs &lt;strong>(Claude, Gemini, Mistral, LLaMA)&lt;/strong> across &lt;strong>10+&lt;/strong> political topics, applying cross-model bias mitigation and visualizing results in &lt;strong>Tableau&lt;/strong> to assess fairness.&lt;/li>
 &lt;/ul>
-&lt;h3 id="technologies-used">Technologies Used:&lt;/h3>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;h4 id="technologies-used">Technologies Used:&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Hugging Face&lt;/strong>: For accessing pre-trained models and tokenizers&lt;/li>
 &lt;li>&lt;strong>PyTorch&lt;/strong>: Deep learning framework for model training&lt;/li>
@@ -679,16 +684,21 @@ params:
 &lt;li>&lt;strong>spaCy&lt;/strong>: For advanced NLP preprocessing&lt;/li>
 &lt;li>&lt;strong>Tableau&lt;/strong>: For visualizing results and assessing fairness&lt;/li>
 &lt;/ul>
-&lt;p>This project demonstrates the application of state-of-the-art language models for political stance classification, with a focus on accuracy, fairness, and cross-domain generalization.&lt;/p></description></item><item><title>Streamlit Soccer Platform</title><link>https://raulitoflying.github.io/projects/streamlit-soccer/</link><pubDate>Sun, 15 Oct 2023 00:00:00 +0100</pubDate><guid>https://raulitoflying.github.io/projects/streamlit-soccer/</guid><description>&lt;h3 id="live-demo-and-reference-link">Live Demo and Reference Link:&lt;/h3>
-&lt;p>The application is deployed and accessible online at: &lt;a href="https://raulitoflyingsoccerplantform.streamlit.app/">https://raulitoflyingsoccerplantform.streamlit.app/&lt;/a>&lt;/p>
-&lt;p>Reference Link: &lt;a href="https://github.com/Raulitoflying/Streamlit-Soccer-Plantform">https://github.com/Raulitoflying/Streamlit-Soccer-Plantform&lt;/a>&lt;/p>
-&lt;h3 id="key-accomplishments">Key Accomplishments:&lt;/h3>
+&lt;p>This project demonstrates the application of state-of-the-art language models for political stance classification, with a focus on accuracy, fairness, and cross-domain generalization.&lt;/p></description></item><item><title>Streamlit Soccer Platform</title><link>https://raulitoflying.github.io/projects/streamlit-soccer/</link><pubDate>Sun, 15 Oct 2023 00:00:00 +0100</pubDate><guid>https://raulitoflying.github.io/projects/streamlit-soccer/</guid><description>&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;h4 id="live-demo-and-reference-link">Live Demo and Reference Link:&lt;/h4>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;p>&lt;a href="https://raulitoflyingsoccerplantform.streamlit.app/">Live Demo&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://github.com/Raulitoflying/Streamlit-Soccer-Plantform">Reference Link&lt;/a>&lt;/p>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;h4 id="key-accomplishments">Key Accomplishments:&lt;/h4>
 &lt;ul>
-&lt;li>Enhanced analytics using Seaborn and WordCloud for visual storytelling&lt;/li>
-&lt;li>Integrated external APIs to fetch live data from 20+ European leagues and the World Cup&lt;/li>
-&lt;li>Deployed via Streamlit Cloud, improving stability by 40% through automated testing and cache optimization for concurrent users&lt;/li>
+&lt;li>Built a real-time interactive soccer analytics platform with Streamlit and Pandas, analyzing &lt;strong>100+&lt;/strong> player stats across &lt;strong>20+&lt;/strong> leagues.&lt;/li>
+&lt;li>Optimized analytics using Seaborn and WordCloud for visual player-level storytelling; integrated external APIs to fetch live data from &lt;strong>20+&lt;/strong> European leagues and the World Cup.&lt;/li>
+&lt;li>Deployed via &lt;strong>Streamlit Cloud&lt;/strong>, improving stability by &lt;strong>40%&lt;/strong> through automated testing and cache optimization for concurrent users.&lt;/li>
 &lt;/ul>
-&lt;h3 id="technologies-used">Technologies Used:&lt;/h3>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;h4 id="technologies-used">Technologies Used:&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Streamlit&lt;/strong>: For building the interactive web application&lt;/li>
 &lt;li>&lt;strong>Pandas&lt;/strong>: For data manipulation and analysis&lt;/li>
@@ -698,18 +708,46 @@ params:
 &lt;li>&lt;strong>APIs&lt;/strong>: Integration with external soccer data sources&lt;/li>
 &lt;/ul>
 &lt;p>This platform provides soccer enthusiasts with real-time analytics and visualizations, enabling deeper insights into player and team performance across major leagues worldwide.&lt;/p></description></item><item><title>Northeastern University Vancouver</title><link>https://raulitoflying.github.io/education/high-school/</link><pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate><guid>https://raulitoflying.github.io/education/high-school/</guid><description>&lt;ul>
-&lt;li>&lt;strong>Period&lt;/strong>: Sep 2023 - Present&lt;/li>
+&lt;li>&lt;strong>Period&lt;/strong>: Sep 2023 - Apr 2025&lt;/li>
 &lt;li>&lt;strong>Modules&lt;/strong>: Python Programming, Machine Learning, Natural Language Processing, Web Development (Node.js APIs), Database Management (PostgreSQL), AWS Cloud, Artificial Intelligence, Computer Vision, Human-Computer Interaction&lt;/li>
-&lt;/ul></description></item><item><title>Cafeteria Coffee App</title><link>https://raulitoflying.github.io/projects/cafeteria-coffee/</link><pubDate>Wed, 10 May 2023 00:00:00 +0100</pubDate><guid>https://raulitoflying.github.io/projects/cafeteria-coffee/</guid><description>&lt;h3 id="reference-link">Reference Link:&lt;/h3>
-&lt;p>Reference Link: &lt;a href="https://github.com/Raulitoflying/CS5520-Cafeteria">https://github.com/Raulitoflying/CS5520-Cafeteria&lt;/a>&lt;/p>
-&lt;h3 id="key-accomplishments">Key Accomplishments:&lt;/h3>
+&lt;/ul></description></item><item><title>Healthcare Management System</title><link>https://raulitoflying.github.io/projects/healthcare-system/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0100</pubDate><guid>https://raulitoflying.github.io/projects/healthcare-system/</guid><description>&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;h4 id="reference-link">Reference Link:&lt;/h4>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;p>&lt;a href="https://github.com/Raulitoflying/dbms-healthcare">Reference Link&lt;/a>&lt;/p>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;h4 id="key-accomplishments">Key Accomplishments:&lt;/h4>
 &lt;ul>
-&lt;li>Secured user authentication with Firebase, supporting 200+ monthly logins and efficient password recovery&lt;/li>
-&lt;li>Optimized Firestore database to handle 100+ user profiles and 250+ journal entries with robust security&lt;/li>
-&lt;li>Integrated Google Maps and OpenAI APIs to enhance location-based searches and personalized coffee recommendations&lt;/li>
-&lt;li>Managing 400+ monthly requests with on-time delivery and feature stability&lt;/li>
+&lt;li>Architected a secure healthcare platform with Spring Boot and React/Vite, implementing &lt;strong>ACID&lt;/strong> transactions in MongoDB to manage &lt;strong>500+&lt;/strong> medical records and &lt;strong>1000+&lt;/strong> appointments monthly with guaranteed data consistency.&lt;/li>
+&lt;li>Engineered JWT-based authentication with OAuth2 Resource Server and &lt;strong>role-based access control&lt;/strong>, ensuring &lt;strong>HIPAA-compliant&lt;/strong> data protection while providing specialized interfaces for doctors, patients, and administrators.&lt;/li>
+&lt;li>Leveraged Vite&amp;rsquo;s development tools to accelerate build times by &lt;strong>78% (45s to 10s)&lt;/strong>, resulting in improved developer productivity and sub-second rendering performance for end users.&lt;/li>
 &lt;/ul>
-&lt;h3 id="technologies-used">Technologies Used:&lt;/h3>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;h4 id="technologies-used">Technologies Used:&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Spring Boot&lt;/strong>: Backend framework for API development&lt;/li>
+&lt;li>&lt;strong>React/Vite&lt;/strong>: Frontend UI framework with optimized build tools&lt;/li>
+&lt;li>&lt;strong>MongoDB&lt;/strong>: NoSQL database with ACID transaction support&lt;/li>
+&lt;li>&lt;strong>JWT Security&lt;/strong>: Authentication and authorization&lt;/li>
+&lt;li>&lt;strong>OAuth2 Resource Server&lt;/strong>: Secure identity management&lt;/li>
+&lt;li>&lt;strong>RBAC&lt;/strong>: Role-based access control system&lt;/li>
+&lt;li>&lt;strong>React Router&lt;/strong>: Client-side routing&lt;/li>
+&lt;li>&lt;strong>Redux Toolkit&lt;/strong>: State management&lt;/li>
+&lt;/ul>
+&lt;p>This healthcare management system offers a comprehensive solution for medical facilities, with HIPAA-compliant security, efficient appointment scheduling, and specialized user interfaces for all stakeholders in the healthcare ecosystem.&lt;/p></description></item><item><title>Cafeteria Coffee App</title><link>https://raulitoflying.github.io/projects/cafeteria-coffee/</link><pubDate>Wed, 10 May 2023 00:00:00 +0100</pubDate><guid>https://raulitoflying.github.io/projects/cafeteria-coffee/</guid><description>&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;h4 id="reference-link">Reference Link:&lt;/h4>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;p>&lt;a href="https://github.com/Raulitoflying/CS5520-Cafeteria">Reference Link&lt;/a>&lt;/p>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;h4 id="key-accomplishments">Key Accomplishments:&lt;/h4>
+&lt;ul>
+&lt;li>Developed and launched a mobile app with &lt;strong>React Native&lt;/strong> and &lt;strong>Expo&lt;/strong>, enabling users to manage orders, profiles, and journals.&lt;/li>
+&lt;li>Secured user authentication with Firebase, supporting &lt;strong>200+&lt;/strong> monthly logins and efficient password recovery, optimizing Firestore database to handle &lt;strong>100+&lt;/strong> user profiles and &lt;strong>250+&lt;/strong> journal entries with robust security.&lt;/li>
+&lt;li>Integrated &lt;strong>Google Maps&lt;/strong> and &lt;strong>OpenAI APIs&lt;/strong> to enhance location-based searches and personalized coffee recommendations, managing &lt;strong>400+&lt;/strong> monthly requests with on-time delivery and feature stability.&lt;/li>
+&lt;/ul>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;h4 id="technologies-used">Technologies Used:&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>React Native&lt;/strong>: Cross-platform mobile development framework&lt;/li>
 &lt;li>&lt;strong>Expo&lt;/strong>: Simplified React Native development and deployment&lt;/li>
@@ -718,14 +756,21 @@ params:
 &lt;li>&lt;strong>Google Maps API&lt;/strong>: For location-based features&lt;/li>
 &lt;li>&lt;strong>OpenAI API&lt;/strong>: For personalized recommendations&lt;/li>
 &lt;/ul>
-&lt;p>This mobile application provides coffee enthusiasts with a seamless way to discover, order, and journal their coffee experiences, while supporting location-based recommendations and robust user management.&lt;/p></description></item><item><title>ACA: Highly Available PHP Application</title><link>https://raulitoflying.github.io/projects/aca-php/</link><pubDate>Wed, 25 Jan 2023 00:00:00 +0100</pubDate><guid>https://raulitoflying.github.io/projects/aca-php/</guid><description>&lt;h3 id="key-accomplishments">Key Accomplishments:&lt;/h3>
+&lt;p>This mobile application provides coffee enthusiasts with a seamless way to discover, order, and journal their coffee experiences, while supporting location-based recommendations and robust user management.&lt;/p></description></item><item><title>ACA: Highly Available PHP Application</title><link>https://raulitoflying.github.io/projects/aca-php/</link><pubDate>Wed, 25 Jan 2023 00:00:00 +0100</pubDate><guid>https://raulitoflying.github.io/projects/aca-php/</guid><description>&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;h4 id="reference-link">Reference Link:&lt;/h4>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;p>&lt;a href="https://www.credly.com/badges/e180e73c-ec92-4d21-af31-a7fe7866767a">Reference Link&lt;/a>&lt;/p>
+ &lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;h4 id="key-accomplishments">Key Accomplishments:&lt;/h4>
 &lt;ul>
-&lt;li>Led the design and deployment of a PHP application using Docker on AWS (EC2, ELB, Auto Scaling), achieving high availability (99.9% uptime)&lt;/li>
-&lt;li>Integrated MySQL via RDS and secured credentials with Secrets Manager, reducing response time by 30% during high-traffic scenarios&lt;/li>
-&lt;li>Streamlined infrastructure provisioning using Terraform and CI/CD pipelines, reducing setup time by 60% and enabling 150% scalability&lt;/li>
-&lt;li>Built real-time monitoring dashboards using CloudWatch and Tableau to visualize system metrics and performance trends&lt;/li>
+&lt;li>Led the deployment of a PHP application using Docker on AWS &lt;strong>(EC2, ELB, Auto Scaling)&lt;/strong>, achieving &lt;strong>99.9%&lt;/strong> uptime.&lt;/li>
+&lt;li>Integrated &lt;strong>MySQL&lt;/strong> via &lt;strong>RDS&lt;/strong> and secured credentials with &lt;strong>Secrets Manager&lt;/strong>, reducing response time by &lt;strong>30%&lt;/strong> during traffic peaks.&lt;/li>
+&lt;li>Streamlined infrastructure setup using Terraform and CI/CD pipelines, reducing setup time by &lt;strong>60%&lt;/strong> and enabling &lt;strong>150%&lt;/strong> horizontal scalability.&lt;/li>
+&lt;li>Created real-time monitoring dashboards using &lt;strong>CloudWatch&lt;/strong> and &lt;strong>Tableau&lt;/strong> to visualize system metrics and performance trends.&lt;/li>
 &lt;/ul>
-&lt;h3 id="technologies-used">Technologies Used:&lt;/h3>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;h4 id="technologies-used">Technologies Used:&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>PHP&lt;/strong>: Core programming language&lt;/li>
 &lt;li>&lt;strong>AWS Cloud&lt;/strong>: Hosting platform&lt;/li>
@@ -734,16 +779,22 @@ params:
 &lt;li>&lt;strong>RDS (MySQL)&lt;/strong>: Managed database service&lt;/li>
 &lt;li>&lt;strong>CloudWatch&lt;/strong>: Monitoring solution&lt;/li>
 &lt;li>&lt;strong>Tableau&lt;/strong>: Visualization tool&lt;/li>
-&lt;/ul></description></item><item><title>Kanhas Web Application</title><link>https://raulitoflying.github.io/projects/kanhas-web/</link><pubDate>Tue, 15 Nov 2022 00:00:00 +0100</pubDate><guid>https://raulitoflying.github.io/projects/kanhas-web/</guid><description>&lt;h3 id="reference-link">Reference Link:&lt;/h3>
-&lt;p>Reference Link: &lt;a href="https://github.com/Raulitoflying/CS5610-final-project">https://github.com/Raulitoflying/CS5610-final-project&lt;/a>&lt;/p>
-&lt;h3 id="key-accomplishments">Key Accomplishments:&lt;/h3>
+&lt;/ul></description></item><item><title>Kanhas Web Application</title><link>https://raulitoflying.github.io/projects/kanhas-web/</link><pubDate>Tue, 15 Nov 2022 00:00:00 +0100</pubDate><guid>https://raulitoflying.github.io/projects/kanhas-web/</guid><description>&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;h4 id="reference-link">Reference Link:&lt;/h4>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;p>&lt;a href="https://github.com/Raulitoflying/CS5610-final-project">Reference Link&lt;/a>&lt;/p>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;h4 id="key-accomplishments">Key Accomplishments:&lt;/h4>
 &lt;ul>
-&lt;li>Implemented CRUD functionality and efficient data aggregation and summarization to support instructor dashboards&lt;/li>
-&lt;li>Integrated MongoDB (for content) with PostgreSQL (for structured data) in a modular backend&lt;/li>
-&lt;li>Deployed full-stack applications using Docker on AWS (EC2), Netlify, and Render&lt;/li>
-&lt;li>Implemented Redis caching, lazy loading, and CI/CD pipelines to improve user experience and streamline release cycles&lt;/li>
+&lt;li>Incorporated the development of a TypeScript course management system with Node.js (API Development), React, Redux, and MongoDB,
+supporting CRUD functionality and efficient data aggregation and summarization to support instructor dashboards.&lt;/li>
+&lt;li>Integrated MongoDB (for content) with PostgreSQL (for structured data) in a modular backend, improving data handling and query efficiency.&lt;/li>
+&lt;li>Deployed full-stack applications using Docker on AWS (EC2), Netlify, and Render; implemented Redis caching, lazy loading, and CI/CD
+pipelines to improve user experience and streamline release cycles.&lt;/li>
 &lt;/ul>
-&lt;h3 id="technologies-used">Technologies Used:&lt;/h3>
+&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;h4 id="technologies-used">Technologies Used:&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Node.js&lt;/strong>: For backend API development&lt;/li>
 &lt;li>&lt;strong>React&lt;/strong>: Frontend UI library&lt;/li>
@@ -754,7 +805,8 @@ params:
 &lt;li>&lt;strong>AWS (EC2)&lt;/strong>: Cloud hosting&lt;/li>
 &lt;li>&lt;strong>Redis&lt;/strong>: Caching solution&lt;/li>
 &lt;/ul>
-&lt;p>This web application offers a comprehensive course management system with optimized data handling, efficient user interfaces, and a robust deployment infrastructure.&lt;/p></description></item><item><title>Data Analyst Intern</title><link>https://raulitoflying.github.io/experience/job-2/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0100</pubDate><guid>https://raulitoflying.github.io/experience/job-2/</guid><description>&lt;h3 id="key-accomplishments">Key Accomplishments:&lt;/h3>
+&lt;p>This web application offers a comprehensive course management system with optimized data handling, efficient user interfaces, and a robust deployment infrastructure.&lt;/p></description></item><item><title>Data Analyst Intern</title><link>https://raulitoflying.github.io/experience/job-2/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0100</pubDate><guid>https://raulitoflying.github.io/experience/job-2/</guid><description>&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;h3 id="key-accomplishments">Key Accomplishments:&lt;/h3>
 &lt;ul>
 &lt;li>
 &lt;p>Participated in the development of a Java-based promotional material management platform with &lt;strong>Spring Boot&lt;/strong>, integrating &lt;strong>Docker containerization and API development&lt;/strong>. Reduced code coupling by &lt;strong>23%&lt;/strong> and improved campaign outreach by &lt;strong>25%&lt;/strong>.&lt;/p>
@@ -763,21 +815,17 @@ params:
 &lt;p>Collaborated with campaign teams to classify and analyze 7,000+ promotional items. Generated actionable insights using &lt;strong>Tableau&lt;/strong> dashboards, improving retrieval efficiency by &lt;strong>40%&lt;/strong>.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Developed a promoted &lt;strong>HTML&lt;/strong> layer that enhanced web accessibility and reduced node execution time by &lt;strong>67%&lt;/strong>.&lt;/p></description></item><item><title>Business Analyst Intern</title><link>https://raulitoflying.github.io/experience/job-1/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate><guid>https://raulitoflying.github.io/experience/job-1/</guid><description>&lt;h3 id="key-accomplishments">Key Accomplishments:&lt;/h3>
+&lt;p>Developed a promoted &lt;strong>HTML&lt;/strong> layer that enhanced web accessibility and reduced node execution time by &lt;strong>67%&lt;/strong>.&lt;/p></description></item><item><title>Business Analyst Intern</title><link>https://raulitoflying.github.io/experience/job-1/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate><guid>https://raulitoflying.github.io/experience/job-1/</guid><description>&lt;div style="margin-bottom: 40px;">&lt;/div>
+&lt;h3 id="key-accomplishments">Key Accomplishments:&lt;/h3>
 &lt;ul>
 &lt;li>
 &lt;p>Coordinated project timelines and deliverables for a high-concurrency number generator, integrating &lt;strong>real-time analytics, data pipelines&lt;/strong>, and AWS Cloud (EC2, RDS) with MySQL databases, reducing data processing time by &lt;strong>30%&lt;/strong>.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Conducted in-depth analysis (&lt;strong>data transformation, aggregation, summarization&lt;/strong>) of 10+ senior care market reports (e.g., from Ernst &amp;amp; Young) using &lt;strong>SPSS&lt;/strong>; visualized findings using &lt;strong>Power BI&lt;/strong> dashboards to inform strategic decisions.&lt;/p>
+&lt;p>Conducted in-depth analysis (&lt;strong>data transformation, aggregation, summarization&lt;/strong>) of &lt;strong>10+&lt;/strong> senior care market reports (e.g., from Ernst &amp;amp; Young) using &lt;strong>SPSS&lt;/strong>; visualized findings using &lt;strong>Power BI&lt;/strong> dashboards to inform strategic decisions.&lt;/p>
 &lt;/li>
-&lt;/ul>
-&lt;h3 id="technologies-used">Technologies Used:&lt;/h3>
-&lt;ul>
-&lt;li>MySQL, AWS Cloud, Power BI&lt;/li>
-&lt;li>SPSS for statistical analysis&lt;/li>
-&lt;li>Data visualization and reporting tools&lt;/li>
-&lt;/ul></description></item><item><title>University of Western Ontario, Huron University College</title><link>https://raulitoflying.github.io/education/western-ontario/</link><pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate><guid>https://raulitoflying.github.io/education/western-ontario/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>Collaborated with analytics and reporting stakeholders to implement cloud-hosted pipelines, improving real-time insights for &lt;strong>3+&lt;/strong> departments and enhancing data accessibility by &lt;strong>35%&lt;/strong>.&lt;/p></description></item><item><title>University of Western Ontario, Huron University College</title><link>https://raulitoflying.github.io/education/western-ontario/</link><pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate><guid>https://raulitoflying.github.io/education/western-ontario/</guid><description>&lt;ul>
 &lt;li>&lt;strong>Period&lt;/strong>: Sept 2021 - Jan 2022&lt;/li>
 &lt;/ul></description></item><item><title>Beijing Language and Culture University</title><link>https://raulitoflying.github.io/education/university-of-life/</link><pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate><guid>https://raulitoflying.github.io/education/university-of-life/</guid><description>&lt;ul>
 &lt;li>&lt;strong>Period&lt;/strong>: Sept 2019 - Jun 2023&lt;/li>
@@ -797,7 +845,7 @@ params:
  &lt;span>Software &amp; Data Engineer | IT Support | NLP &amp; Policy Analysis&lt;/span>
  &lt;/h1>
  &lt;div class="lead">
- 🎓 I'm a Master's student in Computer Science at Northeastern University with a passion for software development, data analysis, and IT support. I thrive at the intersection of code and communication — building reliable systems and helping users solve complex issues.
+ 🎓 I'm a New Graduate Master's student in Computer Science at Northeastern University with a passion for software development, data analysis, and IT support. I thrive at the intersection of code and communication — building reliable systems and helping users solve complex issues.
  &lt;/div>
  
  &lt;/div>
@@ -972,15 +1020,15 @@ params:
  
  &lt;div class="col-12 col-sm-6 mb-4 mb-sm-0">
  &lt;div class="education">
- &lt;div class="education__date">2023 - Present&lt;/div>
+ &lt;div class="education__date">Sep 2023 - Apr 2025&lt;/div>
  &lt;div class="education__title">Northeastern University Vancouver&lt;/div>
- &lt;div class="education__degree">Master of Computer Science | GPA: 3.77/4.0&lt;/div>
+ &lt;div class="education__degree">Master of Computer Science | GPA: 3.71/4.0&lt;/div>
  &lt;/div>
  &lt;/div>
  
  &lt;div class="col-12 col-sm-6 mb-4 mb-sm-0">
  &lt;div class="education">
- &lt;div class="education__date">2021 - 2022&lt;/div>
+ &lt;div class="education__date">Sep 2021 - Jan 2022&lt;/div>
  &lt;div class="education__title">University of Western Ontario, Huron University College&lt;/div>
  &lt;div class="education__degree">Exchange Student Program with Full Scholarship&lt;/div>
  &lt;/div>
@@ -988,7 +1036,7 @@ params:
  
  &lt;div class="col-12 col-sm-6 mb-4 mb-sm-0">
  &lt;div class="education">
- &lt;div class="education__date">2019 - 2023&lt;/div>
+ &lt;div class="education__date">Sep 2019 - Jun 2023&lt;/div>
  &lt;div class="education__title">Beijing Language and Culture University&lt;/div>
  &lt;div class="education__degree">Bachelor of Arts, major in English and Spanish | GPA: 3.77/4.0&lt;/div>
  &lt;/div>
@@ -1040,6 +1088,7 @@ params:
  Key Accomplishments: Participated in the development of a Java-based promotional material management platform with Spring Boot, integrating Docker containerization and API development. Reduced code coupling by 23% and improved campaign outreach by 25%.
 Collaborated with campaign teams to classify and analyze 7,000+ promotional items. Generated actionable insights using Tableau dashboards, improving retrieval efficiency by 40%.
 Developed a promoted HTML layer that enhanced web accessibility and reduced node execution time by 67%.
+Delivered technical support and documentation (README) to cross-functional users, resolving MacOS/Windows issues (login, compatibility, access), end-user onboarding &amp;amp; offboarding, basic network troubleshooting (DNS, DHCP) and reducing support requests by 30%.
 Technologies Used: Java, Spring Boot, Redis, MySQL Docker, Tableau HTML/CSS, JavaScript 
  &lt;/div>
  &lt;/div>
@@ -1063,6 +1112,7 @@ Technologies Used: Java, Spring Boot, Redis, MySQL Docker, Tableau HTML/CSS, Jav
  &lt;h1>Business Analyst Intern&lt;/h1>
  Key Accomplishments: Coordinated project timelines and deliverables for a high-concurrency number generator, integrating real-time analytics, data pipelines, and AWS Cloud (EC2, RDS) with MySQL databases, reducing data processing time by 30%.
 Conducted in-depth analysis (data transformation, aggregation, summarization) of 10+ senior care market reports (e.g., from Ernst &amp;amp; Young) using SPSS; visualized findings using Power BI dashboards to inform strategic decisions.
+Collaborated with analytics and reporting stakeholders to implement cloud-hosted pipelines, improving real-time insights for 3+ departments and enhancing data accessibility by 35%.
 Technologies Used: MySQL, AWS Cloud, Power BI SPSS for statistical analysis Data visualization and reporting tools 
  &lt;/div>
  &lt;/div>
@@ -1246,6 +1296,8 @@ Technologies Used: MySQL, AWS Cloud, Power BI SPSS for statistical analysis Data
  
  
  
+ 
+ 
 
  &lt;div class="row project-cards">
  
@@ -1269,6 +1321,6 @@ Technologies Used: MySQL, AWS Cloud, Power BI SPSS for statistical analysis Data
  
  &lt;div class="card-body">
  &lt;h5 class="card-title">Cafeteria Coffee App&lt;/h5>
- &lt;p class="card-subtitle mb-2 text-muted">Collaborate Project&lt;/p></description></item><item><title>Printable CV</title><link>https://raulitoflying.github.io/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://raulitoflying.github.io/cv/</guid><description>&lt;p>ℹ This page is a demo of the printer-friendly output of the theme. You can find the source code in the demo repo (&lt;a href="https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md%29">https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md)&lt;/a>. Try printing it directly from your browser!&lt;/p>
+ &lt;p class="card-subtitle mb-2 text-muted">Mobile Application Project&lt;/p></description></item><item><title>Printable CV</title><link>https://raulitoflying.github.io/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://raulitoflying.github.io/cv/</guid><description>&lt;p>ℹ This page is a demo of the printer-friendly output of the theme. You can find the source code in the demo repo (&lt;a href="https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md%29">https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md)&lt;/a>. Try printing it directly from your browser!&lt;/p>
 &lt;h3 id="about-me">About me&lt;/h3>
 &lt;p>I am a passionate software engineer with over 10 years of experience building web applications and distributed systems. My expertise spans full-stack development, cloud architecture, and leading engineering teams to deliver impactful solutions. I thrive on solving complex technical challenges while mentoring others and fostering a collaborative engineering culture.&lt;/p></description></item></channel></rss>
