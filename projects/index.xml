@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on</title><link>https://raulitoflying.github.io/projects/</link><description>Recent content in Projects on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://raulitoflying.github.io/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>LLM-based Political Stance Classification</title><link>https://raulitoflying.github.io/projects/llm-political-stance/</link><pubDate>Tue, 20 Feb 2024 00:00:00 +0100</pubDate><guid>https://raulitoflying.github.io/projects/llm-political-stance/</guid><description>&lt;h3 id="reference-link">Reference Link:&lt;/h3>
+&lt;p>Reference Link: &lt;a href="https://github.com/Raulitoflying/CS7980-llms-political">https://github.com/Raulitoflying/CS7980-llms-political&lt;/a>&lt;/p>
+&lt;h3 id="key-accomplishments">Key Accomplishments:&lt;/h3>
+&lt;ul>
+&lt;li>Designed prompt templates to improve generalization across domains&lt;/li>
+&lt;li>Constructed scalable embedding pipelines with LangChain, pgvector, and spaCy-based NLP preprocessing&lt;/li>
+&lt;li>Aggregated over 70,000+ social media textual records (Twitter, Reddit) to enhance training diversity&lt;/li>
+&lt;li>Benchmarked open-source and proprietary LLMs (Claude, Gemini, Mistral, LLaMA) across 10+ political topics&lt;/li>
+&lt;/ul>
+&lt;h3 id="technologies-used">Technologies Used:&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Hugging Face&lt;/strong>: For accessing pre-trained models and tokenizers&lt;/li>
+&lt;li>&lt;strong>PyTorch&lt;/strong>: Deep learning framework for model training&lt;/li>
+&lt;li>&lt;strong>RAG (Retrieval-Augmented Generation)&lt;/strong>: For enhancing model responses&lt;/li>
+&lt;li>&lt;strong>NLP&lt;/strong>: Natural Language Processing techniques for text preprocessing&lt;/li>
+&lt;li>&lt;strong>LangChain&lt;/strong>: For building LLM-powered applications&lt;/li>
+&lt;li>&lt;strong>spaCy&lt;/strong>: For advanced NLP preprocessing&lt;/li>
+&lt;li>&lt;strong>Tableau&lt;/strong>: For visualizing results and assessing fairness&lt;/li>
+&lt;/ul>
+&lt;p>This project demonstrates the application of state-of-the-art language models for political stance classification, with a focus on accuracy, fairness, and cross-domain generalization.&lt;/p></description></item><item><title>Streamlit Soccer Platform</title><link>https://raulitoflying.github.io/projects/streamlit-soccer/</link><pubDate>Sun, 15 Oct 2023 00:00:00 +0100</pubDate><guid>https://raulitoflying.github.io/projects/streamlit-soccer/</guid><description>&lt;h3 id="live-demo-and-reference-link">Live Demo and Reference Link:&lt;/h3>
+&lt;p>The application is deployed and accessible online at: &lt;a href="https://raulitoflyingsoccerplantform.streamlit.app/">https://raulitoflyingsoccerplantform.streamlit.app/&lt;/a>&lt;/p>
+&lt;p>Reference Link: &lt;a href="https://github.com/Raulitoflying/Streamlit-Soccer-Plantform">https://github.com/Raulitoflying/Streamlit-Soccer-Plantform&lt;/a>&lt;/p>
+&lt;h3 id="key-accomplishments">Key Accomplishments:&lt;/h3>
+&lt;ul>
+&lt;li>Enhanced analytics using Seaborn and WordCloud for visual storytelling&lt;/li>
+&lt;li>Integrated external APIs to fetch live data from 20+ European leagues and the World Cup&lt;/li>
+&lt;li>Deployed via Streamlit Cloud, improving stability by 40% through automated testing and cache optimization for concurrent users&lt;/li>
+&lt;/ul>
+&lt;h3 id="technologies-used">Technologies Used:&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Streamlit&lt;/strong>: For building the interactive web application&lt;/li>
+&lt;li>&lt;strong>Pandas&lt;/strong>: For data manipulation and analysis&lt;/li>
+&lt;li>&lt;strong>Seaborn&lt;/strong>: For statistical data visualization&lt;/li>
+&lt;li>&lt;strong>WordCloud&lt;/strong>: For generating word clouds from text data&lt;/li>
+&lt;li>&lt;strong>Python&lt;/strong>: Core programming language&lt;/li>
+&lt;li>&lt;strong>APIs&lt;/strong>: Integration with external soccer data sources&lt;/li>
+&lt;/ul>
+&lt;p>This platform provides soccer enthusiasts with real-time analytics and visualizations, enabling deeper insights into player and team performance across major leagues worldwide.&lt;/p></description></item><item><title>Cafeteria Coffee App</title><link>https://raulitoflying.github.io/projects/cafeteria-coffee/</link><pubDate>Wed, 10 May 2023 00:00:00 +0100</pubDate><guid>https://raulitoflying.github.io/projects/cafeteria-coffee/</guid><description>&lt;h3 id="reference-link">Reference Link:&lt;/h3>
+&lt;p>Reference Link: &lt;a href="https://github.com/Raulitoflying/CS5520-Cafeteria">https://github.com/Raulitoflying/CS5520-Cafeteria&lt;/a>&lt;/p>
+&lt;h3 id="key-accomplishments">Key Accomplishments:&lt;/h3>
+&lt;ul>
+&lt;li>Secured user authentication with Firebase, supporting 200+ monthly logins and efficient password recovery&lt;/li>
+&lt;li>Optimized Firestore database to handle 100+ user profiles and 250+ journal entries with robust security&lt;/li>
+&lt;li>Integrated Google Maps and OpenAI APIs to enhance location-based searches and personalized coffee recommendations&lt;/li>
+&lt;li>Managing 400+ monthly requests with on-time delivery and feature stability&lt;/li>
+&lt;/ul>
+&lt;h3 id="technologies-used">Technologies Used:&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>React Native&lt;/strong>: Cross-platform mobile development framework&lt;/li>
+&lt;li>&lt;strong>Expo&lt;/strong>: Simplified React Native development and deployment&lt;/li>
+&lt;li>&lt;strong>Firebase&lt;/strong>: For authentication services&lt;/li>
+&lt;li>&lt;strong>Firestore&lt;/strong>: NoSQL database for storing user data&lt;/li>
+&lt;li>&lt;strong>Google Maps API&lt;/strong>: For location-based features&lt;/li>
+&lt;li>&lt;strong>OpenAI API&lt;/strong>: For personalized recommendations&lt;/li>
+&lt;/ul>
+&lt;p>This mobile application provides coffee enthusiasts with a seamless way to discover, order, and journal their coffee experiences, while supporting location-based recommendations and robust user management.&lt;/p></description></item><item><title>ACA: Highly Available PHP Application</title><link>https://raulitoflying.github.io/projects/aca-php/</link><pubDate>Wed, 25 Jan 2023 00:00:00 +0100</pubDate><guid>https://raulitoflying.github.io/projects/aca-php/</guid><description>&lt;h3 id="key-accomplishments">Key Accomplishments:&lt;/h3>
+&lt;ul>
+&lt;li>Led the design and deployment of a PHP application using Docker on AWS (EC2, ELB, Auto Scaling), achieving high availability (99.9% uptime)&lt;/li>
+&lt;li>Integrated MySQL via RDS and secured credentials with Secrets Manager, reducing response time by 30% during high-traffic scenarios&lt;/li>
+&lt;li>Streamlined infrastructure provisioning using Terraform and CI/CD pipelines, reducing setup time by 60% and enabling 150% scalability&lt;/li>
+&lt;li>Built real-time monitoring dashboards using CloudWatch and Tableau to visualize system metrics and performance trends&lt;/li>
+&lt;/ul>
+&lt;h3 id="technologies-used">Technologies Used:&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>PHP&lt;/strong>: Core programming language&lt;/li>
+&lt;li>&lt;strong>AWS Cloud&lt;/strong>: Hosting platform&lt;/li>
+&lt;li>&lt;strong>Terraform&lt;/strong>: Infrastructure as code&lt;/li>
+&lt;li>&lt;strong>Docker&lt;/strong>: Containerization&lt;/li>
+&lt;li>&lt;strong>RDS (MySQL)&lt;/strong>: Managed database service&lt;/li>
+&lt;li>&lt;strong>CloudWatch&lt;/strong>: Monitoring solution&lt;/li>
+&lt;li>&lt;strong>Tableau&lt;/strong>: Visualization tool&lt;/li>
+&lt;/ul></description></item><item><title>Kanhas Web Application</title><link>https://raulitoflying.github.io/projects/kanhas-web/</link><pubDate>Tue, 15 Nov 2022 00:00:00 +0100</pubDate><guid>https://raulitoflying.github.io/projects/kanhas-web/</guid><description>&lt;h3 id="reference-link">Reference Link:&lt;/h3>
+&lt;p>Reference Link: &lt;a href="https://github.com/Raulitoflying/CS5610-final-project">https://github.com/Raulitoflying/CS5610-final-project&lt;/a>&lt;/p>
+&lt;h3 id="key-accomplishments">Key Accomplishments:&lt;/h3>
+&lt;ul>
+&lt;li>Implemented CRUD functionality and efficient data aggregation and summarization to support instructor dashboards&lt;/li>
+&lt;li>Integrated MongoDB (for content) with PostgreSQL (for structured data) in a modular backend&lt;/li>
+&lt;li>Deployed full-stack applications using Docker on AWS (EC2), Netlify, and Render&lt;/li>
+&lt;li>Implemented Redis caching, lazy loading, and CI/CD pipelines to improve user experience and streamline release cycles&lt;/li>
+&lt;/ul>
+&lt;h3 id="technologies-used">Technologies Used:&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Node.js&lt;/strong>: For backend API development&lt;/li>
+&lt;li>&lt;strong>React&lt;/strong>: Frontend UI library&lt;/li>
+&lt;li>&lt;strong>Redux&lt;/strong>: State management&lt;/li>
+&lt;li>&lt;strong>MongoDB&lt;/strong>: NoSQL database for content storage&lt;/li>
+&lt;li>&lt;strong>PostgreSQL&lt;/strong>: SQL database for structured data&lt;/li>
+&lt;li>&lt;strong>Docker&lt;/strong>: Containerization&lt;/li>
+&lt;li>&lt;strong>AWS (EC2)&lt;/strong>: Cloud hosting&lt;/li>
+&lt;li>&lt;strong>Redis&lt;/strong>: Caching solution&lt;/li>
+&lt;/ul>
+&lt;p>This web application offers a comprehensive course management system with optimized data handling, efficient user interfaces, and a robust deployment infrastructure.&lt;/p></description></item></channel></rss>
