@@ -7,7 +7,8 @@ company: "Cloud Architecture Project"
 location: "Vancouver, BC"
 duration: "Jan 2023 - Mar 2023"
 technologies: "PHP, AWS Cloud, Terraform, Docker"
-projectImage: "images/projects/aca-php.jpg"
+projectImage: "images/works/ACA.png"
+
 ---
 ###  Key Accomplishments:
 

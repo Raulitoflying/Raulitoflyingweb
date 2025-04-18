@@ -1,6 +1,18 @@
 {{ $image := "" }}
-{{ with .Params.params.image }}
-  {{ $image = .src | absURL }}
+{{ if .Params.projectImage }}
+  {{ $img := resources.Get .Params.projectImage }}
+  {{ if $img }}
+    {{ $image = $img.RelPermalink }}
+  {{ else }}
+    {{ $img := resources.Get (printf "images/works/%s" (path.Base .Params.projectImage)) }}
+    {{ if $img }}
+      {{ $image = $img.RelPermalink }}
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ with .Params.params.image }}
+    {{ $image = .src | absURL }}
+  {{ end }}
 {{ end }}
 
 <div class="col-lg-6 mb-3">

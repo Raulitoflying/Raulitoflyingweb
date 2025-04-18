@@ -9,6 +9,10 @@ duration: "Nov 2022 - Feb 2023"
 technologies: "Node.js, React, Redux, MongoDB, PostgreSQL"
 projectImage: "images/projects/kanhas-web.jpg"
 ---
+### Reference Link:
+
+Reference Link: [https://github.com/Raulitoflying/CS5610-final-project](https://github.com/Raulitoflying/CS5610-final-project)
+
 ### Key Accomplishments:
 
 - Implemented CRUD functionality and efficient data aggregation and summarization to support instructor dashboards

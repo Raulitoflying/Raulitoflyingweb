@@ -57,8 +57,8 @@ draft = false
     button2_text="All Projects"
     button2_url="/projects"
     button2_icon="icon-square-arrow-up-right"
-    button3_text="Download Resume"
-    button3_url="https://shorturl.at/n0P06"
+    button3_text="View More Portfolio"
+    button3_url="https://drive.google.com/file/d/1wnSJ8qHEsKcin122YzjPKPlnmbYas9jQ/view?usp=drive_link"
     button3_icon="icon-download"
 >}}
 

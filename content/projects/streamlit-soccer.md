@@ -7,9 +7,16 @@ company: "Personal Project"
 location: "Vancouver, BC"
 duration: "Oct 2023 - Dec 2023"
 technologies: "Streamlit, Pandas, Seaborn, WordCloud"
-projectImage: "images/projects/soccer-platform.jpg"
+projectImage: "assets/images/works/streamlit.png"
 ---
-## Key Accomplishments:
+
+
+### Live Demo and Reference Link:
+The application is deployed and accessible online at: [https://raulitoflyingsoccerplantform.streamlit.app/](https://raulitoflyingsoccerplantform.streamlit.app/)
+
+Reference Link: [https://github.com/Raulitoflying/Streamlit-Soccer-Plantform](https://github.com/Raulitoflying/Streamlit-Soccer-Plantform)
+
+### Key Accomplishments:
 
 - Enhanced analytics using Seaborn and WordCloud for visual storytelling
 - Integrated external APIs to fetch live data from 20+ European leagues and the World Cup

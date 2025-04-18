@@ -7,8 +7,12 @@ company: "Collaborate Project"
 location: "Vancouver, BC"
 duration: "May 2023 - Aug 2023"
 technologies: "React Native, Firebase/Firestore"
-projectImage: "images/projects/coffee-app.jpg"
+projectImage: "assets/images/works/cafeteria.png"
 ---
+### Reference Link:
+
+Reference Link: [https://github.com/Raulitoflying/CS5520-Cafeteria](https://github.com/Raulitoflying/CS5520-Cafeteria)
+
 ### Key Accomplishments:
 
 - Secured user authentication with Firebase, supporting 200+ monthly logins and efficient password recovery

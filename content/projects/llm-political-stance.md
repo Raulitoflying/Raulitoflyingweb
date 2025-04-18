@@ -7,8 +7,12 @@ company: "Academic Research"
 location: "Vancouver, BC"
 duration: "Feb 2024 - Apr 2024"
 technologies: "Hugging Face, PyTorch, RAG, NLP"
-projectImage: "images/projects/llm-classification.jpg"
+projectImage: "assets/images/works/llm.png"
 ---
+### Reference Link:
+
+Reference Link: [https://github.com/Raulitoflying/CS7980-llms-political](https://github.com/Raulitoflying/CS7980-llms-political)
+
 ### Key Accomplishments:
 
 - Designed prompt templates to improve generalization across domains
