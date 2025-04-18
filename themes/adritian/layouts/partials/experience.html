@@ -8,7 +8,8 @@
         {{ if $isShortcode }}
           {{ .Get "title" | default "" }}
         {{ else }}
-          {{ i18n "experience_title" }}
+          {{ $showcaseTitle := .Params.title | default (i18n "experience_title") }}
+          {{ $showcaseTitle }}
         {{ end }}
       </h2>
 

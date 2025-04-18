@@ -19,8 +19,8 @@
 {{ else }}
   {{/* Fallback to the content of the markdown in /experience/_index.md */}}
   {{/* Base fields from content */}}
-  {{- $introTitle = .Title -}}
-  {{- $introDescription = .Content | safeHTML -}}
+  {{- $introTitle = .Params.showcase.subtitle | default .Title -}}
+  {{- $introDescription = .Params.showcase.description | default .Content | safeHTML -}}
 {{ end }}
 
 {{/* ---------------------------------------------------------------------------
@@ -40,10 +40,10 @@
   {{- $btn1Text = .Get "button1_text" | default ( i18n "experience_button" ) -}}
   {{- $btn1External = or (hasPrefix $btn1URL "http://") (hasPrefix $btn1URL "https://") (hasPrefix $btn1URL "mailto:") -}}
 {{ else }}
-  {{- $btn1Enable = .Site.Data.homepage.experience.button.enable -}}
-  {{- $btn1Icon = .Site.Data.homepage.experience.button.icon -}}
-  {{- $btn1URL = i18n "experience_button_url" -}}
-  {{- $btn1Text = i18n "experience_button" -}}
+  {{- $btn1Enable = true -}}
+  {{- $btn1Icon = "icon-linkedin" -}}
+  {{- $btn1URL = .Params.buttons.buttonLink | default (i18n "experience_button_url") -}}
+  {{- $btn1Text = .Params.buttons.buttonText | default (i18n "experience_button") -}}
   {{- $btn1External = or (hasPrefix $btn1URL "http://") (hasPrefix $btn1URL "https://") (hasPrefix $btn1URL "mailto:") -}}
 {{ end }}
 

@@ -56,9 +56,8 @@
               />
             {{ end }}
             <div class="experience__meta">
-              <!-- Completely remove date display -->
               <div class="experience__title">{{ .Title }}</div>
-              <div class="experience__company">{{ .Params.technologies }}</div>
+              <div class="experience__company">{{ .Params.company }}. <span class="experience__location">{{ .Params.location }}</span></div>
             </div>
           </div>
         </a>

@@ -7,7 +7,7 @@ company: "Greenpeace"
 location: "Beijing, China"
 duration: "Aug 2022 - Dec 2022"
 ---
-## Key Accomplishments:
+### Key Accomplishments:
 
 - Participated in the development of a Java-based promotional material management platform with **Spring Boot**, integrating **Docker containerization and API development**. Reduced code coupling by **23%** and improved campaign outreach by **25%**.
 

@@ -71,14 +71,29 @@
     <loc>http://localhost:1313/blog/sample/</loc>
     <lastmod>2024-06-21T14:38:33+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projects/llm-political-stance/</loc>
+    <lastmod>2024-02-20T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/streamlit-soccer/</loc>
+    <lastmod>2023-10-15T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/education/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/education/high-school/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projects/cafeteria-coffee/</loc>
+    <lastmod>2023-05-10T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/aca-php/</loc>
+    <lastmod>2023-01-25T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/kanhas-web/</loc>
+    <lastmod>2022-11-15T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/experience/job-2/</loc>
     <lastmod>2022-08-01T00:00:00+01:00</lastmod>
@@ -98,22 +113,12 @@
     <loc>http://localhost:1313/education/university-of-life/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/aca-php/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/cafeteria-coffee/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/home/home/</loc>
   </url><url>
     <loc>http://localhost:1313/home/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/kanhas-web/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/llm-political-stance/</loc>
-  </url><url>
     <loc>http://localhost:1313/cv/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/streamlit-soccer/</loc>
   </url>
 </urlset>

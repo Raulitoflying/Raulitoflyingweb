@@ -11,6 +11,7 @@ description = "A showcase of my technical projects demonstrating skills in softw
 [params.buttons]
 buttonText = "View GitHub"
 buttonLink = "https://github.com/Raulitoflying"
+buttonIcon = "icon-square-github"
 +++
 
-Projects showcase my technical skills and problem-solving abilities across various domains.
+Projects showcase my technical skills and problem-solving abilities across various domains including data analysis, web development, and machine learning.

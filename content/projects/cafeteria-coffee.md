@@ -1,23 +1,22 @@
-+++
-title = "Cafeteria Coffee App"
-draft = false
-technologies = "React Native, Firebase/Firestore"
-projectImage = "images/projects/coffee-app.jpg"
-+++
-
-## Cafeteria Coffee App
-
-Developed and launched a mobile app with React Native and Expo, enabling users to manage orders, profiles, and journals.
-
-### Key Features
+---
+date: 2023-05-10T00:00:00+01:00
+draft: false
+title: "Cafeteria Coffee App"
+projectTitle: "Cafeteria Coffee App"
+company: "Collaborate Project"
+location: "Vancouver, BC"
+duration: "May 2023 - Aug 2023"
+technologies: "React Native, Firebase/Firestore"
+projectImage: "images/projects/coffee-app.jpg"
+---
+### Key Accomplishments:
 
 - Secured user authentication with Firebase, supporting 200+ monthly logins and efficient password recovery
 - Optimized Firestore database to handle 100+ user profiles and 250+ journal entries with robust security
 - Integrated Google Maps and OpenAI APIs to enhance location-based searches and personalized coffee recommendations
 - Managing 400+ monthly requests with on-time delivery and feature stability
 
-### Technologies Used
-
+### Technologies Used:
 - **React Native**: Cross-platform mobile development framework
 - **Expo**: Simplified React Native development and deployment
 - **Firebase**: For authentication services

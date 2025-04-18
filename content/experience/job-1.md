@@ -7,7 +7,7 @@ company: "Red Cross"
 location: "Beijing, China"
 duration: "Jan 2022 - May 2022"
 ---
-## Key Accomplishments:
+### Key Accomplishments:
 
 - Coordinated project timelines and deliverables for a high-concurrency number generator, integrating **real-time analytics, data pipelines**, and AWS Cloud (EC2, RDS) with MySQL databases, reducing data processing time by **30%**.
 
