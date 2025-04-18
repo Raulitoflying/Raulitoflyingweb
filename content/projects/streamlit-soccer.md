@@ -7,7 +7,7 @@ company: "Personal Project"
 location: "Vancouver, BC"
 duration: "Oct 2023 - Dec 2023"
 technologies: "Streamlit, Pandas, Seaborn, WordCloud"
-projectImage: "assets/images/works/streamlit.png"
+projectImage: "images/works/streamlit.png"
 ---
 
 

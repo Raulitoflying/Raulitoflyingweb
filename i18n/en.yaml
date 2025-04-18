@@ -30,7 +30,7 @@
 
 ## Footer
 - id: "footer_notice"
-  translation: "© Adritian. Free Hugo theme by Adrián Moreno Peña."
+  translation: "© 2025 RaulitoFlying. All Rights Reserved. Built with Hugo from Adritian."
 
 - id: "language"
   translation: "Language"
@@ -47,10 +47,10 @@
 
 ## Homepage head title
 - id: "head_title"
-  translation: "Demo site for Adritian - a high performance hugo theme by Adrián Moreno"
+  translation: "Personal Site for Yixiang Zhou - a high performance hugo page"
 
 - id: "head_description"
-  translation: "This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
+  translation: "This hugo theme is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
 
 
 ## Blog

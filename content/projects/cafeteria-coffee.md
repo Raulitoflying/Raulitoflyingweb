@@ -7,7 +7,7 @@ company: "Collaborate Project"
 location: "Vancouver, BC"
 duration: "May 2023 - Aug 2023"
 technologies: "React Native, Firebase/Firestore"
-projectImage: "assets/images/works/cafeteria.png"
+projectImage: "images/works/cafeteria.png"
 ---
 ### Reference Link:
 

@@ -7,7 +7,7 @@ company: "Academic Research"
 location: "Vancouver, BC"
 duration: "Feb 2024 - Apr 2024"
 technologies: "Hugging Face, PyTorch, RAG, NLP"
-projectImage: "assets/images/works/llm.png"
+projectImage: "images/works/llm.png"
 ---
 ### Reference Link:
 
