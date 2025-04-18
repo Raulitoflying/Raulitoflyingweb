@@ -8,7 +8,7 @@ draft = false
 {{< showcase-section
     title="Yixiang Zhou"
     subtitle="Software & Data Engineer | IT Support | NLP & Policy Analysis"
-    description="🎓 I'm a Master's student in Computer Science at Northeastern University with a passion for software development, data analysis, and IT support. I thrive at the intersection of code and communication — building reliable systems and helping users solve complex issues."
+    description="🎓 I'm a New Graduate Master's student in Computer Science at Northeastern University with a passion for software development, data analysis, and IT support. I thrive at the intersection of code and communication — building reliable systems and helping users solve complex issues."
     imgSrc="images/showcase/showcase.png"
     imgScale="0.3"
  >}}

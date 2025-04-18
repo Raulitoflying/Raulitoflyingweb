@@ -3,7 +3,7 @@ date: 2023-10-15T00:00:00+01:00
 draft: false
 title: "Streamlit Soccer Platform"
 projectTitle: "Streamlit Soccer Platform"
-company: "Personal Project"
+company: "Data Visulalization Project"
 location: "Vancouver, BC"
 duration: "Oct 2023 - Dec 2023"
 technologies: "Streamlit, Pandas, Seaborn, WordCloud"
@@ -11,18 +11,27 @@ projectImage: "images/works/streamlit.png"
 ---
 
 
-### Live Demo and Reference Link:
-The application is deployed and accessible online at: [https://raulitoflyingsoccerplantform.streamlit.app/](https://raulitoflyingsoccerplantform.streamlit.app/)
+<div style="margin-bottom: 40px;"></div>
+<div style="margin-bottom: 40px;"></div>
 
-Reference Link: [https://github.com/Raulitoflying/Streamlit-Soccer-Plantform](https://github.com/Raulitoflying/Streamlit-Soccer-Plantform)
+#### Live Demo and Reference Link:
+<div style="margin-bottom: 40px;"></div>
 
-### Key Accomplishments:
+[Live Demo](https://raulitoflyingsoccerplantform.streamlit.app/)
 
-- Enhanced analytics using Seaborn and WordCloud for visual storytelling
-- Integrated external APIs to fetch live data from 20+ European leagues and the World Cup
-- Deployed via Streamlit Cloud, improving stability by 40% through automated testing and cache optimization for concurrent users
+[Reference Link](https://github.com/Raulitoflying/Streamlit-Soccer-Plantform)
 
-### Technologies Used:
+<div style="margin-bottom: 40px;"></div>
+
+#### Key Accomplishments:
+
+- Built a real-time interactive soccer analytics platform with Streamlit and Pandas, analyzing **100+** player stats across **20+** leagues.
+- Optimized analytics using Seaborn and WordCloud for visual player-level storytelling; integrated external APIs to fetch live data from **20+** European leagues and the World Cup.
+- Deployed via **Streamlit Cloud**, improving stability by **40%** through automated testing and cache optimization for concurrent users.
+
+<div style="margin-bottom: 40px;"></div>
+
+#### Technologies Used:
 - **Streamlit**: For building the interactive web application
 - **Pandas**: For data manipulation and analysis
 - **Seaborn**: For statistical data visualization

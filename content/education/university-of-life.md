@@ -3,7 +3,7 @@ title = "Beijing Language and Culture University"
 date = 2019-09-01
 draft = false
 university = "Beijing Language and Culture University"
-year = "2019 - 2023"
+year = "Sep 2019 - Jun 2023"
 degree = "Bachelor of Arts, major in English and Spanish | GPA: 3.77/4.0"
 +++
 

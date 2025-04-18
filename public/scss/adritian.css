@@ -11450,3 +11450,30 @@ footer_links .nav-item .nav-link::after {
     max-width: 45% !important;
     margin-right: 5% !important;
     /* 添加右侧间距 */ } }
+
+/* 增加工作经验标题之间的间距 - 现在放在media查询外面 */
+.experience-section .jobTitle,
+.experience-section h1,
+.experience-section .h1,
+.experience-section h2,
+.experience-section .h2 {
+  margin-bottom: 2.5rem !important; }
+
+/* 确保Key Accomplishments和上方标题有足够间距 */
+.experience-section h3, .experience-section .h3,
+.experience-section .key-accomplishments {
+  margin-top: 2rem !important; }
+
+/* 更具体的选择器，增加标题和Key Accomplishments之间的间距 */
+.content h1 + h3, .content .h1 + h3, .content h1 + .h3, .content .h1 + .h3,
+.content h2 + h3,
+.content .h2 + h3,
+.content h2 + .h3,
+.content .h2 + .h3 {
+  margin-top: 3rem !important;
+  padding-top: 1rem !important; }
+
+/* 针对特定页面结构的选择器 */
+#content .data-analyst-intern + .key-accomplishments,
+#content .business-analyst-intern + .key-accomplishments {
+  margin-top: 3rem !important; }
