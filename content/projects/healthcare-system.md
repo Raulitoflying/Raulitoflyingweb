@@ -21,7 +21,7 @@ projectImage: "images/works/healthcare.png"
 
 #### Key Accomplishments:
 
-- Architected a secure healthcare platform with Spring Boot and React/Vite, implementing **ACID** transactions in MongoDB to manage **500+** medical records and **1000+** appointments monthly with guaranteed data consistency.
+- Architected a secure healthcare platform with Spring Boot and React/Vite, implementing **RESTful API principles** and **ACID** transactions in MongoDB to manage **500+** medical records and **1000+** appointments monthly with guaranteed data consistency.
 - Engineered JWT-based authentication with OAuth2 Resource Server and **role-based access control**, ensuring **HIPAA-compliant** data protection while providing specialized interfaces for doctors, patients, and administrators.
 - Leveraged Vite's development tools to accelerate build times by **78% (45s to 10s)**, resulting in improved developer productivity and sub-second rendering performance for end users.
 

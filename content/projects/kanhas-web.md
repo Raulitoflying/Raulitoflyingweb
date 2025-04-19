@@ -21,7 +21,7 @@ projectImage: "images/projects/kanhas-web.jpg"
 
 #### Key Accomplishments:
 
-- Incorporated the development of a TypeScript course management system with Node.js (API Development), React, Redux, and MongoDB,
+- Incorporated the development of a TypeScript course management system with Node.js (RestfulAPI Development), React, Redux, and MongoDB,
 supporting CRUD functionality and efficient data aggregation and summarization to support instructor dashboards.
 - Integrated MongoDB (for content) with PostgreSQL (for structured data) in a modular backend, improving data handling and query efficiency.
 - Deployed full-stack applications using Docker on AWS (EC2), Netlify, and Render; implemented Redis caching, lazy loading, and CI/CD
